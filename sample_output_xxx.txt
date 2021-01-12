@@ -1,5 +1,5 @@
 Yet another post in RASCAL v 1 by Mike Warot
-This post is 38 lines, with a checksum of e571bc093d51fa0b5f7946188e08036a in MD5
+This post is 38 lines, with a checksum of XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX in MD5
 Copyright (C) 2021 - Michael A Warot. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. (CC BY-SA 4.0)
 
 People of earth...

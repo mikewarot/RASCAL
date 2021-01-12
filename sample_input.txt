@@ -1,4 +1,4 @@
-Hello, Internet People!
+People of earth...
 
 I hope this letter finds you well. I have grown weary of the fight. I barely remember the early days of this war, when it seemed that the Internet was a place of promise, offering the tools of liberation for the people. The decades since have proven to be surprising, with many ups and downs.
 
@@ -23,3 +23,12 @@ The ability to share parts of a POST freely allows each of us to do our own bit 
 I want to thank you, dear reader, for your time and attention. I hope you will join and become a fellow author of the future with me.
 
 For a better future, I send this letter to the world.  Michael Warot, January 12, 2021.
+
+PS: To validate this, you need to replace the checksum on line 2 of the output with all capital Xs
+
+  For example:
+    This post is 29 lines, with a checksum of 688700531d2886543703e1f16d2b19a1 in MD5
+  Needs to be replaced with
+    This post is 29 lines, with a checksum of XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX in MD5
+
+I'll soon write a program to do the validation, but MD5 was good enough for the idea.
