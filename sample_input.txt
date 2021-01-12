@@ -1,0 +1,25 @@
+Hello, Internet People!
+
+I hope this letter finds you well. I have grown weary of the fight. I barely remember the early days of this war, when it seemed that the Internet was a place of promise, offering the tools of liberation for the people. The decades since have proven to be surprising, with many ups and downs.
+
+This message is the sample.txt of a new protocol designed to route around censorship of the walled garden type. I have composed it hoping this seed of an idea finds purchase in the imagination of others, for it is us who build the future.
+
+This protocol is named RASCAL, which stands for *Route Around Stupid Censorship At Last*. I chose this name because I thought it was fun, and knew it might cause some confusion, especially with search engines. I kinda hope that works out to be a good thing, in the end.
+
+I have designed this protocol to take advantage of the already existing tools, not doing anything tricky (except the checksum above.... which might be the wrong way to do it, Bruce Schneier will be sure to let me know, and I'll heed his advice for version 2).
+
+I want to solve a social problem, in a social way, with a bit of help from technology. So, this is the technical part of the fix, a way to frame a message that people can read. This technical part is just good enough to get out the door. To put in another way, it's an MPV - Minimum Viable Product.
+
+The social part is important, because you can't solve social problems with technical solutions. The social problem is that we've allowed our creative output to be gathered in walled gardens like Facebook, Twitter, etc. Those are great ways to communicate, but they have a downside. The centralize speech, instead of keeping it widely distributed. This allows gathering of power in a manner that is dangerous to Democracy, and a free society.
+
+To fight against the powers that be on their own turf is foolish. I humbly offer this as a suggestion of how we can accomplish the same goals we had back at the beginning, without falling into the trap that arose in the walled gardens. The main principal I believe will work is one of everyone paying to host their own stuff, instead of giving away your rights for "free" hosting. This eliminates the advertiser, and recasts communication in the old ways... peer to peer. I can say whatever I want in my own yard, if I break the law... the law deals with me, and just me. I'm responsible for what I say, and what I repeat. I'm not responsible for anything else.
+
+This letter is the sample.txt for my first attempt at this. The protocol so far has one feature... the specification of a POST, which is important to the technical part. You'll notice that it is copyrighted by me, but licensed in a way that others can share and build upon it.
+
+Licensing things this way is, I believe, very important. You see, if I want to share the work of others, I have to make a copy of it, to quote it, etc.  If I read a POST and find it interesting, I need a way to copy it without worrying about lawyers, etc... the creative commons folks have wrangled with legalities of it, and I trust their work. It gives someone who reads this post, likes it, and wants to share it a way to do so, without having to ask me first.
+
+The ability to share parts of a POST freely allows each of us to do our own bit of spreading good news, cute stories, etc.  I've not pondered the inclusion of anything other than text at this point. I'm sure there will be much to discuss if this idea in my head spreads to others... but right now, let's get it going first, shall we?
+
+I want to thank you, dear reader, for your time and attention. I hope you will join and become a fellow author of the future with me.
+
+For a better future, I send this letter to the world.  Michael Warot, January 12, 2021.

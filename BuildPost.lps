@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="BuildPost.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="89"/>
+        <CursorPos X="23" Y="110"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\sysutils\datih.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="147"/>
+        <CursorPos X="10" Y="128"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="BuildPost.lpr"/>
+        <Caret Line="44" Column="19" TopLine="42"/>
+      </Position1>
+      <Position2>
+        <Filename Value="BuildPost.lpr"/>
+        <Caret Line="42" Column="18" TopLine="28"/>
+      </Position2>
+      <Position3>
+        <Filename Value="BuildPost.lpr"/>
+        <Caret Line="103" Column="26" TopLine="76"/>
+      </Position3>
+      <Position4>
+        <Filename Value="BuildPost.lpr"/>
+        <Caret Line="102" Column="44" TopLine="79"/>
+      </Position4>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
