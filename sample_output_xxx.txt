@@ -1,5 +1,5 @@
 Yet another post in RASCAL v 1 by Mike Warot
-This post is 38 lines, with a checksum of XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX in MD5
+This post is 42 lines, with a checksum of XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX in MD5
 Copyright (C) 2021 - Michael A Warot. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. (CC BY-SA 4.0)
 
 People of earth...
@@ -28,7 +28,11 @@ I want to thank you, dear reader, for your time and attention. I hope you will j
 
 For a better future, I send this letter to the world.  Michael Warot, January 12, 2021.
 
-PS: To validate this, you need to replace the checksum on line 2 of the output with all capital Xs
+PS: To validate this by hand, you need to 
+
+  1> replace all the line endings with CRLF, which is it's original format
+  
+  2> replace the checksum on line 2 of the output with all capital Xs
 
   For example:
     This post is 29 lines, with a checksum of 688700531d2886543703e1f16d2b19a1 in MD5
