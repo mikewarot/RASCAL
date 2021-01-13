@@ -28,3 +28,7 @@ Figure out what to do with rich media
 
 Add license checking on POSTs, when you read them, to prevent replies that break copyright
 
+Support more than MD5 in the Pascal examples
+
+Refactor BuildPost.lpr to eliminate duplicate code
+
