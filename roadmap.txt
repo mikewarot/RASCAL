@@ -12,3 +12,19 @@ RASCALserve - some form of web server, cgi, whatever... to allow replies to be h
 
 Clean up line endings in the samples, dangling spaces at the end of lines causes problems with some text editors... would kill the HASH.
 
+Come up with a way to handle private messages, most likely encryption of some form.
+
+Do a better write up of checking the HASH by hand, give examples in Linux and Windows (don't have a Mac)
+
+Make videos explaining things, post to Youtube
+
+Build my own RASCAL blog, RSS, reply handler
+
+Figure out how to deal with replies
+
+Figure out how to deal with ratings vectors
+
+Figure out what to do with rich media
+
+Add license checking on POSTs, when you read them, to prevent replies that break copyright
+
