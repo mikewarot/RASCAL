@@ -1,0 +1,14 @@
+1/13/2021 - First POST creator done
+
+
+
+ToDo - in no particular order
+
+ValidatePost - a program to check the checksums of a post, paying particular attention to line endings, allowing for CR or CRLF or LF
+
+RASCALly - a program to watch RSS fieeds for posts, and reply, etc.
+
+RASCALserve - some form of web server, cgi, whatever... to allow replies to be handled, allow people to acknowledge posts, and give rating vectors, etc.
+
+Clean up line endings in the samples, dangling spaces at the end of lines causes problems with some text editors... would kill the HASH.
+
