@@ -9,8 +9,8 @@
         <Filename Value="BuildPost.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="14"/>
-        <CursorPos Y="29"/>
+        <TopLine Value="55"/>
+        <CursorPos X="21" Y="69"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -23,7 +23,7 @@
         <Loaded Value="True"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="4" HistoryIndex="3">
+    <JumpHistory Count="9" HistoryIndex="8">
       <Position1>
         <Filename Value="BuildPost.lpr"/>
         <Caret Line="44" Column="19" TopLine="42"/>
@@ -40,6 +40,26 @@
         <Filename Value="BuildPost.lpr"/>
         <Caret Line="102" Column="44" TopLine="79"/>
       </Position4>
+      <Position5>
+        <Filename Value="BuildPost.lpr"/>
+        <Caret Line="70" Column="57" TopLine="44"/>
+      </Position5>
+      <Position6>
+        <Filename Value="BuildPost.lpr"/>
+        <Caret Line="38" Column="43" TopLine="24"/>
+      </Position6>
+      <Position7>
+        <Filename Value="BuildPost.lpr"/>
+        <Caret Line="42" Column="62" TopLine="29"/>
+      </Position7>
+      <Position8>
+        <Filename Value="BuildPost.lpr"/>
+        <Caret Line="69" Column="21" TopLine="55"/>
+      </Position8>
+      <Position9>
+        <Filename Value="BuildPost.lpr"/>
+        <Caret Line="40" Column="37" TopLine="26"/>
+      </Position9>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>

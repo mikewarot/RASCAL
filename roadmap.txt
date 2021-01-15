@@ -1,8 +1,10 @@
 1/13/2021 - First POST creator done
 
+1/15/2021 - MAW 
+  Added RemoveTrailingWhiteSpace to fix a problem Ward had with spaces on the end of lines
+  "Clean up line endings in the samples, dangling spaces at the end of lines causes problems with some text editors... would kill the HASH."
 
-
-ToDo - in no particular order
+Left ToDo - in no particular order
 
 ValidatePost - a program to check the checksums of a post, paying particular attention to line endings, allowing for CR or CRLF or LF
 

@@ -35,6 +35,13 @@ const
   HeaderLineCount = 4;
   DummyChecksum   = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
   CheckSumName    = 'MD5';
+  WhiteSpace      :  set of char = [' ',#9];  // space, tab
+
+  procedure RemoveTrailingWhiteSpace(Var S : String);
+  begin
+    while (length(s) > 1) AND (s[length(s)] in WhiteSpace) do
+        delete(s,length(s),1);
+  end;
 
 var
   StartTime        : TDateTime;
@@ -59,6 +66,7 @@ begin
         halt(1);
       end;
       readln(Buffer[SourceLineCount]);
+      RemoveTrailingWhiteSpace(Buffer[SourceLineCount]);
     end; // while not EOF
 
   WriteLn(stderr,SourceLineCount,' lines read');
