@@ -6,6 +6,33 @@
 
 Left ToDo - in no particular order
 
+
+
+PLAN of Attack
+  All posts, replies, etc... are fed into SHA512, the hex string of which is used to store the file, in the same way as git   /12/345...... to distribute the files in a number of folders
+
+There are the following object types (stolen from git)
+  commit -- ^tree, author, committer info, commit message
+  tree  -- lists all the files in a folder
+  blob  -- an actual file
+  annotated tag -- notes upon a file (ratings?)
+
+
+
+
+
+
+
+Capabilities Kernel
+  Set of routines to implement capabilities, instead of username/passwords and permissions everywhere.
+
+
+
+Reply Engine - Accepts Capability, and a URL, adds URL to list of replies to a given POST
+  Also allows public to read the list of replies, so they can follow them as well
+  
+
+
 ValidatePost - a program to check the checksums of a post, paying particular attention to line endings, allowing for CR or CRLF or LF
 
 RASCALly - a program to watch RSS fieeds for posts, and reply, etc.
